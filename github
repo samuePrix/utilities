@@ -1,0 +1,6 @@
+# git init
+# git add .
+# git commit -m "Your commit"
+# git remote add origin <URL-of-repository>
+# git branch -M "name branch"
+# git push -u origin "name branch"
